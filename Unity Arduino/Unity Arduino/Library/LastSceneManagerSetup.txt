@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARDUnity/Examples/Potentiometer/ReactingLightIntensity(POT).unity
+  isLoaded: 1
+  isActive: 1
