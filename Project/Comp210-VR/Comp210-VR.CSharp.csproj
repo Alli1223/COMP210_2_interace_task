@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ExampleInteractiveItem.cs" />
     <Compile Include="Assets\Scripts\Interactive object behaviour.cs" />
+    <Compile Include="Assets\Scripts\Weapon.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -159,7 +160,6 @@
     <Compile Include="Assets\VRStandardAssets\Scripts\VRInput.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\VRInteractiveItem.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\VRTrackingReset.cs" />
-    <Compile Include="Assets\Weapon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\Android\Assets\OSIG_Readme.txt" />
