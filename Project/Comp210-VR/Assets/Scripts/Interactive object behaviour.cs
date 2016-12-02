@@ -16,5 +16,9 @@ public class Interactiveobjectbehaviour : MonoBehaviour {
         Debug.Log("Activated");
 	}
 
+    public void onTrigger(Collider collider)
+    {
 
+
+    }
 }
