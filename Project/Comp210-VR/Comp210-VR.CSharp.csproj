@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ExampleInteractiveItem.cs" />
     <Compile Include="Assets\Scripts\Interactive object behaviour.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
