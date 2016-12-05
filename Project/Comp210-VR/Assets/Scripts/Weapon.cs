@@ -5,7 +5,6 @@ public class Weapon : MonoBehaviour {
 
     public GameObject cube;
     public Rigidbody rb;
-    public Shader materialOne;
 
     // Use this for initialization
     void Start()
@@ -19,8 +18,6 @@ public class Weapon : MonoBehaviour {
         if(other.tag == "Sphere")
             Destroy(other.gameObject);
 
-
-        materialOne = other.gameObject.GetComponent<Shader>();
     }
 
     // Update is called once per frame
